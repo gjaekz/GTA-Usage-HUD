@@ -1,0 +1,7 @@
+usage.json
+hud-settings.json
+*.log
+*.tmp
+*.temp
+*.cache
+__pycache__/
